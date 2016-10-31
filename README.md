@@ -2,4 +2,4 @@
 Woocommerce hook to replace the total price
 
 
-Insert this code in funtstion.php and 
+Insert this code in funtstion.php 
